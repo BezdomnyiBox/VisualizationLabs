@@ -1,0 +1,5 @@
+train: ./archive/train
+val: ./archive/val
+
+nc: 5
+names: ['trash', 'bio', 'rov', 'plastic', 'timestamp']

@@ -1,3 +1,13 @@
 ./for Students
 ./yolov8x.pt
 ./yolov8n.pt
+yolov8n.pt
+yolov8x.pt
+for Students-01/for Students-01/saveMesh.cpp
+for Students-01/for Students-01/teapot_1.x
+for Students-01/for Students-01/teapot_2.x
+for Students-01/for Students-01/texture_1.bmp
+for Students-01/for Students-01/texture_2.bmp
+archive/*
+output/
+runs/
